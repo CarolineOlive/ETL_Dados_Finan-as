@@ -23,7 +23,7 @@
       <li>remover colunas desnecessárias
       <li>transformar colunas em linhas
       <li>ajuste dos dados (tipo, ...)
-        <li>Uma tabela de cadastro de despesas foi utilizadas para adicionar o id dos itens à tabela de dados.<li>
+        <li>Uma tabela de cadastro de despesas foi utilizadas para adicionar o id dos itens à tabela de dados.</li>
     </ul>
     
    <h3>Resultado final - Visualização dos dados</h3>
