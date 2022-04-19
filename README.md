@@ -1,4 +1,5 @@
-<img align="center" alt="Carol-Python" height="40" width="40" src="https://user-images.githubusercontent.com/73675930/163909136-14c75020-7263-4e4a-b1e0-11d1310cbbbe.png"><h1>ETL de dados não ordenados ("não-estruturados")</h1>
+<img align="center" alt="Carol-Python" height="40" width="40" src="https://user-images.githubusercontent.com/73675930/163909136-14c75020-7263-4e4a-b1e0-11d1310cbbbe.png">
+<h1>ETL de dados não ordenados ("não-estruturados")</h1>
 
   <p>Visualizar dados em tabela, muitas vezes, pode ser desconfortável, principalmente quando são dados que, por si só, podem gerar algum desconforto, como no caso de dados financeiros, mais ainda quando se trata de finanças pessoais. </p>
   <p><b>Visualizar esses dados em gráficos pode ser muito mais fácil, rápido e confortável.</b></p>
